@@ -1,0 +1,22 @@
+nav {
+  background-color: pink;
+  padding: 1px;
+  margin: 5px;
+}
+
+header {
+  background-color: tan;
+  padding: 5px;
+  margin: 5px;
+}
+
+article {
+  background-color: lightgreen;
+  padding: 5px;
+  margin: 5px;
+}
+footer {
+  background-color: lightblue;
+  padding: 5px;
+  margin: 5px;
+}
